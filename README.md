@@ -8,6 +8,6 @@
 |2  | [통계학개론]()|
 |3  | [회귀모형]() |
 |3  | [통계조사방법론]()|
-|3  | [통계패키지]()|
+|3  | [통계패키지](https://github.com/devgskim/knou-stat-data/tree/master/data-visual)|
 |3  | [데이터시각화]()|
   
