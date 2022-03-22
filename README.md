@@ -5,9 +5,9 @@
 
 |학년 |과목     |
 |---|---        |
-|2  | [통계학개론]()|
-|3  | [회귀모형]() |
-|3  | [통계조사방법론]()|
-|3  | [통계패키지](https://github.com/devgskim/knou-stat-data/tree/master/data-visual)|
-|3  | [데이터시각화]()|
+|2  | [통계학개론](https://github.com/devgskim/knou-stat-data/tree/master/stat-intro)|
+|3  | [회귀모형](https://github.com/devgskim/knou-stat-data/tree/master/regression-analy) |
+|3  | [통계조사방법론](https://github.com/devgskim/knou-stat-data/tree/master/stat-survey-method)|
+|3  | [통계패키지](https://github.com/devgskim/knou-stat-data/tree/master/stst-package)|
+|3  | [데이터시각화](https://github.com/devgskim/knou-stat-data/tree/master/data-visual)|
   
